@@ -1,0 +1,23 @@
+{
+  "name": "api-coworking-nodejs",
+  "version": "1.0.0",
+  "description": "Project to learn expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelDesco/API-Coworking-Nodejs.git"
+  },
+  "author": "RawJay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelDesco/API-Coworking-Nodejs/issues"
+  },
+  "homepage": "https://github.com/MichaelDesco/API-Coworking-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
